@@ -1,2 +1,2 @@
 # qr-code
-Frontend Mentor challenge
+Front-end Mentor Challenge
